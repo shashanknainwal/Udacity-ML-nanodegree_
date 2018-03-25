@@ -29,3 +29,5 @@ The following function will help us plot the model.
     if len(np.unique(z)) > 1:
         plt.contour(s,t,z,colors = 'k', linewidths = 2)
     plt.show()
+
+![kRbSk](kRbSk.png)
